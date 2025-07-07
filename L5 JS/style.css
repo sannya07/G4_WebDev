@@ -1,0 +1,22 @@
+#grandparent {
+  border: 2px solid red;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  margin: 20px;
+  align-items: center;
+}
+
+#parent {
+  border: 2px solid green;
+  height: 300px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#child {
+  border: 2px solid blue;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+}
